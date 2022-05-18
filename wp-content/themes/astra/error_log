@@ -1,0 +1,8 @@
+[03-Dec-2019 20:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home/tmc/public_html/wp-content/themes/astra/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tmc/public_html/wp-content/themes/astra/functions.php on line 16
+[01-Apr-2020 19:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/tmc/public_html/wp-content/themes/astra/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tmc/public_html/wp-content/themes/astra/index.php on line 16
